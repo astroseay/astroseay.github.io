@@ -7,36 +7,40 @@ redirect_from:
   - /resume
 ---
 
-cv.pdf
+[full cv](/home/chris/Documents/git_repos/astroseay.github.io/files/cv.pdf)
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Physics (Astrophysics), UC Santa Cruz, 2017
+* MSc Astronomy, Universiteit Leiden , 2020
+* PhD Astronomy, Universiteit Leiden x Universiteit Delft, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 - June 2020: Graduate student researcher 
+  * Leiden University
+  * duties included: research
+  * supervisor: Associate Professor Matthew Kenworthy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
- 
+* September 2018 - July 2019: Graduate student researcher
+  * Leiden University
+  * duties included: research
+  * supervisor: Yamila Miguel
+
+* June 2017 - Aug 2018: Junior Specialist
+  * UC Santa Cruz
+  * Duties included: Research
+  * Supervisor: Professor Jonathan Fortney
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* languages: python, SQL
+* typesetting: LaTeX
+* tools: Power BI, Tableau, Google Analytics, Amazon Web Service
+* platforms: GNU/Linux, MacOS, Windows
+* office: Microsoft, Libre, Google
 
 Publications
 ======
@@ -46,16 +50,20 @@ Publications
  
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+coming soon!
+
+  #<ul>{% for post in site.talks %}
+  #  {% include archive-single-talk-cv.html %}
+  #{% endfor %}</ul>
  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+coming soon!
+  #<ul>{% for post in site.teaching %}
+  #  {% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+coming soon!
+# * Currently signed in to 43 different slack teams
