@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Christopher Seay"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "PhD candidate at Leiden Observatory"
   location         : "Los Angeles, CA, USA"
   employer         : Leiden University
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/astroseay/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
