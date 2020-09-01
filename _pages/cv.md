@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[full cv](/home/chris/Documents/git_repos/astroseay.github.io/files/cv.pdf)
+[full cv](https://github.com/astroseay/astroseay.github.io/blob/master/files/cv.pdf)
 
 {% include base_path %}
 
@@ -52,18 +52,18 @@ Talks
 ======
 coming soon!
 
-  #<ul>{% for post in site.talks %}
+  <! ---<ul>{% for post in site.talks %}
   #  {% include archive-single-talk-cv.html %}
-  #{% endfor %}</ul>
+  #{% endfor %}</ul> --->
  
 Teaching
 ======
 coming soon!
-  #<ul>{% for post in site.teaching %}
+  <! ---#<ul>{% for post in site.teaching %}
   #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+  #{% endfor %}</ul> --->
   
 Service and leadership
 ======
 coming soon!
-# * Currently signed in to 43 different slack teams
+<! ---# * Currently signed in to 43 different slack teams --->
