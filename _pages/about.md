@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I work on exomoons..."
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-...at Leiden University (LU) and Delft University (DU) as an interdisciplinary PhD candidate with Matthew Kenworthy (LU) and Dominic Dirkx (DU). Specifically, I focus on the detectability of Tidally Heated ExoMoons (THEMs), modeling their detectability and interiors. In the past, I've worked on several projects: at UC Santa Cruz I worked with Jonathan Fortney on modeling brown dwarf and hot Jupiter atmospheres. We are interested in the thermal evolution of these astrophysical objects in addition to their compositions in order to characterize them. As my first year project at Leiden I worked with Yamila Miguel modeling the interiors of hot Jupiters with MESA and simulating oscillatory modes with GYRE to investigate what might excite hot Jupiter oscillations. My master's thesis was with Matt searching for co-moving companions around Sun-like stars in the nearest OB-associating Scorpius-Centaurus (Sco-Cen).
+I'm an astrophysicist looking to transition my career path from academia into data science, particularly either in public service or in tech. I know that isn't typical, but an astronomy career track prepares one well for roles in data science, project management, and public outreach among others. Below you can find my career interests as well as a brief description of past projects. A bit further down are interests outside of work.
+
+In the past, I've worked on several projects: at UC Santa Cruz I worked with Jonathan Fortney on modeling brown dwarf and hot Jupiter atmospheres. We are interested in the thermal evolution of these astrophysical objects in addition to their compositions in order to characterize them. As my first year project at Leiden I worked with Yamila Miguel modeling the interiors of hot Jupiters with MESA and simulating oscillatory modes with GYRE to investigate what might excite hot Jupiter oscillations. My master's thesis was with Matt searching for co-moving companions around Sun-like stars in the nearest OB-associating Scorpius-Centaurus (Sco-Cen).
 
 My career interests
 ======
