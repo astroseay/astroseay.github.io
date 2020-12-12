@@ -32,10 +32,9 @@ Modeling brown dwarf atmospheres
 ======
 To be added soon.
 
-
 Other stuff I enjoy
 ======
-To be added soon.
+I'm a big music guy stretching from OG Rap like Biggie and Pun to Midwest Emo a la American Football. I love going to DJ shows, concerts, blues clubs, everything. I love sports and have played rugby for 4 years. I'm a proud Banana Slug and LSRG affiliate. I also played football in high school.
 
 A big thank-you to academic pages template makers and all others who've made this website easier to make!
 ======
