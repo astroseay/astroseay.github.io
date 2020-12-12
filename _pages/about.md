@@ -14,7 +14,11 @@ In the past, I've worked on several projects: at UC Santa Cruz I worked with Jon
 
 My career interests
 ======
-To be added soon.
+I am addicted to the news and how the news get made. Notably, the LA and NY Times circulations are among my favorite sources of information concerning issues across the board, from war to science, foreign and domestic. Given my background, I principally aim to serve as a "data journalist," where I tell a story through meticulously crafted data visualizations that are easy to follow yet thorough.
+
+I am an avid supporter of Green New Deal policies and have applied across the United States to positions in industry and in government concerning the implementation of policies that would wane us off of fossil fuels. Climate change is the largest existential threat to humanity today; action is needed now!
+
+I am a member of the LA Works volunteer force. Community involvment is principle in forging a better world for our future and so I am a big fan of not-for-profit institutions whose goals include attacking society's most dire issues (vaccines, hunger, housing, and more).
 
 Finding co-moving companions around Sun-like stars
 ======
@@ -22,7 +26,7 @@ One major area of exoplanet detection and characterization involves gathering a 
 
 Exploring the possibility of oscillations in extrasolar giant planets (EGPs)
 ======
-To be added soon.
+Stars and planets oscillate. Asteroseismology, the theoretical and observational study of oscillations, reveals to us the internal structure of stars. The nature and causes of these oscillations is mostly a mystery in the case of EGPs; however, we must learn more about them in order to better understand the internal structures of these sub-stellar bodies. In our Sun as an example, helioseismological measurments revealed a ridid-rotating core and a differentially rotating envelope. Here, "rigidly rotating" refers to the entire core rotating as a single object with a single angular/rotational velocity around the stellar center. For differential rotation, one can think of Jupiter. The bands on the surface of Jupiter don't move together; in fact, they rotate with pretty different velocities. In my work with Yamila, we showed that the semi-major axis (roughly the average distance from the planet to the star_) is the most important parameter when asking the question, "what causes a plnet to oscillate?"
 
 Modeling brown dwarf atmospheres
 ======
