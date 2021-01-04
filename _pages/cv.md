@@ -14,31 +14,27 @@ redirect_from:
 Education
 ======
 * BSc Physics (Astrophysics), UC Santa Cruz, 2017
-* MSc Astronomy, Universiteit Leiden , 2020
-* PhD Astronomy, Universiteit Leiden x Universiteit Delft, 2024 (expected)
+* MSc Astronomy, Leiden University, 2020
 
 Work experience
 ======
-* September 2019 - June 2020: Graduate student researcher 
+* September 2019 - June 2020: Graduate student researcher
   * Leiden University
-  * duties included: research
   * supervisor: Associate Professor Matthew Kenworthy
 
 * September 2018 - July 2019: Graduate student researcher
   * Leiden University
-  * duties included: research
   * supervisor: Yamila Miguel
 
 * June 2017 - Aug 2018: Junior Specialist
   * UC Santa Cruz
-  * Duties included: Research
   * Supervisor: Professor Jonathan Fortney
 
 Skills
 ======
 * languages: python, SQL
 * typesetting: LaTeX
-* tools: Power BI, Tableau, Google Analytics, Amazon Web Service
+* tools: Power BI, Tableau, Google Analytics
 * platforms: GNU/Linux, MacOS, Windows
 * office: Microsoft, Libre, Google
 
@@ -47,15 +43,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
-Talks
-======
-coming soon!
-
-Teaching
-======
-coming soon!
-  
-Service and leadership
-======
-coming soon!
