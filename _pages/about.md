@@ -3,7 +3,7 @@ permalink: /
 title: "Welcome"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -22,7 +22,7 @@ I am a member of the LA Works volunteer force. Community involvment is principle
 
 Finding co-moving companions around Sun-like stars
 ======
-One major area of exoplanet detection and characterization involves gathering a large sample size of planets orbiting stars like our own. Taking HCI VLT/SPHERE data originally from Bohn, A. et al. I queried the ESO archives for additional epochs for 11 of 72 stars in their [YSES survey](shorturl.at/ILPS7). We computed accurate and precise astrometry to analyze companion candidate proper motions in order to determine the nature of these objects in the primary target field-of-view. I confirmed the primary target 2MASSJ12560830-6926539 (roughly 130 pc) is a trinary star system, with the primary target consisting of two stars: one close-in (hereafter 2M1256Ab) at 29 au separation and a farther object (2M1256B) orbiting 100 pc away (500 au separation) respectively. Using orbital models obtained with [orbitize!](http://orbitize.info/en/latest/), we calculated a median orbital period of 292 years assuming a circular orbit and 342 years not assuming a circular orbit. We'd like to better constrain the shape of the orbit, but for that we'll need more data! We also constrained the mass of 2M1256B to 82 / 49 Jupiter masses using photometric data from 2MASS and GAIA and fitting the results to a 3 Myr BT Settl isochrone using the model effective temperature and luminosity respectively (T<sub>eff</sub> / L). 
+One major area of exoplanet detection and characterization involves gathering a large sample size of planets orbiting stars like our own. Taking HCI VLT/SPHERE data originally from Bohn, A. et al. I queried the ESO archives for additional epochs for 11 of 72 stars in their [YSES survey](shorturl.at/ILPS7). We computed accurate and precise astrometry to analyze companion candidate proper motions in order to determine the nature of these objects in the primary target field-of-view. I confirmed the primary target 2MASSJ12560830-6926539 (roughly 130 pc) is a trinary star system, with the primary target consisting of two stars: one close-in (hereafter 2M1256Ab) at 29 au separation and a farther object (2M1256B) orbiting 100 pc away (500 au separation) respectively. Using orbital models obtained with [orbitize!](http://orbitize.info/en/latest/), we calculated a median orbital period of 292 years assuming a circular orbit and 342 years not assuming a circular orbit. We'd like to better constrain the shape of the orbit, but for that we'll need more data! We also constrained the mass of 2M1256B to 82 / 49 Jupiter masses using photometric data from 2MASS and GAIA and fitting the results to a 3 Myr BT Settl isochrone using the model effective temperature and luminosity respectively (T<sub>eff</sub> / L).
 
 Exploring the possibility of oscillations in extrasolar giant planets (EGPs)
 ======
@@ -30,13 +30,12 @@ Stars and planets oscillate. Asteroseismology, the theoretical and observational
 
 Modeling brown dwarf atmospheres
 ======
-To be added soon.
+Atmospheres drive the evolution of planets. The Earth, with a thinner atmosphere, would look vastly different from the one we know. In simplest terms, though, we'd expect the Earth to be colder and much more arid, similar to Mars. With a thicker atmosphere, we'd look a tad more like Venus. This is true for gas giant planets and brown dwarfs, which are are sub-stellar objects that aren't hot enough fuse hydrogen to helium like normal stars. Brown dwarfs are a good analog for Jupiter-sized planets, so we study them to get an idea of how giant gas planets might behave. With Jonathan Fortney, I ran over 10,000 model brown dwarf and exoplanet atmosphere models. We explored many parameters, including chemical composition, radius, and mass, surface gravity, temperature, and clouds in order to see how their spectra (a chemical fingerprint for an object) look. We inform our models with new observational data as well, ensuring up-to-date theoretical spectra.
 
 Other stuff I enjoy
 ======
-I'm a big music guy stretching from OG Rap like Biggie and Pun to Midwest Emo a la American Football. I love going to DJ shows, concerts, blues clubs, everything. I love sports and have played rugby for 4 years. I'm a proud Banana Slug and LSRG affiliate. I also played football in high school.
+I'm a big music guy stretching from OG Rap like Biggie and Pun to Midwest Emo a la American Football. I love going to DJ shows, concerts, blues clubs, everything. I love sports too and have played rugby for 4 years. I'm a proud Banana Slug and LSRG affiliate. Go USA Eagles!
 
 A big thank-you to academic pages template makers and all others who've made this website easier to make!
 ======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
